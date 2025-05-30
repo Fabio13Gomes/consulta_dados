@@ -6,5 +6,5 @@ Este projeto acessa uma tabela pública no banco de dados Supabase com um usuár
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seuusuario/supabase_leitura.git
-cd supabase_leitura
+git clone https://github.com/Fabio13Gomes/consulta_dados.git
+cd consulta_dados
